@@ -15,8 +15,6 @@ function logShout(string) {
 
 }
 
-function logShout(string) {
-  console.log.toUpperCase
-}
+
 
   
